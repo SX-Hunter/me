@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Sandra X. Hunter"
 title_separator          : "-"
 name                     : &name "Sandra X. Hunter"
-description              : &description "Where does this go?"
+description              : &description "Sandra X. Hunter's Personal Website"
 url                      : https://sx-hunter.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/me" # the subpath of your site, e.g. "/blog"
 repository               : "me/sx-hunter.github.io"
@@ -23,7 +23,7 @@ repository               : "me/sx-hunter.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4786.jpeg"
+  avatar           : "IMG_4786.jpg"
   name             : "Sandra X. Hunter"
   pronouns         : "she/her"  
   bio              : "Illustrator | Designer | Humanist"
@@ -51,16 +51,16 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : accelerati.bsky.social
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : sandraxhunter
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : sandra-hunter
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -248,15 +248,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -275,14 +266,6 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
