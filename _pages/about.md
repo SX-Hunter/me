@@ -1,18 +1,20 @@
 ---
 permalink: /
-title: "Sandra X. Hunter98p"
+title: "Sandra X. Hunter"
 pauthor_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I’m a creative professional who loves to design, illustrate and animate stories. My love for the digital arts comes from seeing how they connect people and foster communities. I’m always craving for a new creative challenge and that drives me to explore multiple media when working on a project. I understand that the devil is in the details, and pay careful attention to the touches that add to the final experience.
+I’m a curious creative with a love for digital storytelling, thoughtful design, and community-driven work. I’m drawn to projects that invite play, spark dialogue, and make space for empathy.
 
-When not in front of the computer, I can be found with roller skates on my feet or enjoying earl grey ice cream.
+Outside of design and learning, you’ll often find me experimenting with illustration, going on adventures with my kids, or dreaming up interactive narratives. I’m always looking for meaningful collaborations and new ways to bring ideas to life.
 
-Experienced Designer
+When not in front of the computer, I can be found with roller skates on my feet or enjoying Earl Grey ice cream.
+
+Maker-Scholar Statement
 ======
-As an instructional designer, I apply my creativity and expertise in graphic design, animation, and user experience to create instructional materials that keep the crew safe and informed. I have over four years of experience in developing technical learning content tailored to different audiences and delivery methods, collaborating with subject matter experts, industry peers, and vendors to ensure quality and relevance.
+My work sits at the intersection of learning, storytelling, and empathy. My passion for the digital arts stems from a belief that they can connect people and foster communities. Whether I’m designing interactive learning experiences, curating meaningful content, or crafting animations and illustrations, I approach making as both a critical and creative act.
 
-My passion for digital arts stems from my belief that they can connect people and foster communities. I have a BA in Visual Arts from the University of British Columbia, a diploma in Digital Media focusing on Animation from the Northern Alberta Institute of Technology, and a dual degree in MA/MLIS from the University of Alberta, specializing in digital humanities.
+My practice is informed by a background in art and design, library and information studies, and a deep commitment to accessibility, community, and care. I work across disciplines and platforms, blending theory with praxis.
