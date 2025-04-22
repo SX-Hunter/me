@@ -1,6 +1,6 @@
 ---
 title: "Pregnant Person in the USA"
-excerpt: "Currently, the US has a list of 'blacklisted' words that if you use on your grant proposal, you're getting turned down. The one that stuck with me was 'pregnant person.' Your research cannot include 'pregnant persons.' <br/><img src='../images/PP_USA.png'>"
+excerpt: "Currently, the US has a list of 'blacklisted' words that if you use on your grant proposal, you're getting turned down. The one that stuck with me was 'pregnant person.' Your research cannot include 'pregnant persons.' <br/><img src='../images/PP_USA.png' height='300px'>"
 collection: portfolio
 ---
 *CW: fascism, misogyny, transphobia*
@@ -11,4 +11,4 @@ That these issues are currently more blatant in the States, doesn't mean that Ca
 
 You can play *Pregnant Person in the USA* below. Just use the arrows on your keyboard to move around!
 
-<iframe src="../pregnant_person_in_the_usa.html" title="Pregnant Person in the USA" height="800px"></iframe>
+<iframe src="../pregnant_person_in_the_usa.html" title="Pregnant Person in the USA" height="800px" width="800px"></iframe>
