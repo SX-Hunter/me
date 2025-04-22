@@ -1,6 +1,6 @@
 ---
 title: "Pregnant Person in the USA"
-excerpt: "Currently, the US has a list of 'blacklisted' words that if you use on your grant proposal, you're getting turned down. The one that stuck with me was 'pregnant person.' Your research cannot include 'pregnant persons.' <br/><img src='../images/PP_USA.png' width='250' =250/>"
+excerpt: "Currently, the US has a list of 'blacklisted' words that if you use on your grant proposal, you're getting turned down. The one that stuck with me was 'pregnant person.' Your research cannot include 'pregnant persons.' <br/><img src='../images/PP_USA.png' max-width='50%' />"
 collection: portfolio
 ---
 *CW: fascism, misogyny, transphobia*
