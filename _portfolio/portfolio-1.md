@@ -9,4 +9,4 @@ Listening to what's going on in the States has my anxiety on high alert. Current
 
 That these issues are currently more blatant in the States, doesn't mean that Canada is without isses. While I was pregnant with my youngest, I participated in a study on pregnancy and disordered sleep. The lead researcher told me that her previous proposal had been declined because pregnant people are too small of a population sample for the research to be relevant.
 
-<iframe src="/pregnant_person_in_the_usa.html" title="Pregnant Person in the USA"></iframe>
+<iframe src="../pregnant_person_in_the_usa.html" title="Pregnant Person in the USA"></iframe>
